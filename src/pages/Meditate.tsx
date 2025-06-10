@@ -10,7 +10,7 @@ const Meditate = () => {
       <div className="cosmic-container py-12">
         <div className="mb-8 text-center animate-fade-in">
           <h1 className="text-3xl md:text-4xl font-bold text-cosmic-800 dark:text-cosmic-200 mb-4 font-serif">
-            Sacred Meditation
+            Sacred Meditation - teste4
           </h1>
           <p className="text-lg text-cosmic-600 dark:text-cosmic-400 max-w-2xl mx-auto">
             Take time to quiet your mind and connect with the divine presence through focused meditation.
